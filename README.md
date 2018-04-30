@@ -7,13 +7,9 @@ PBL Module - Developed by Hunter Moore
 ## Equipment Needed:
 
 * Arduino
-
 * Jumper Wires
-
 * Computer Fan
-
 * Resistive Heater
-
 * Temperature Sensor (such as TMP37)
 
 Equipment Notes: If you do not have a resistive heater or computer fan, these can be replaced with two, different colored LEDs to simulate the experience.
@@ -21,11 +17,8 @@ Equipment Notes: If you do not have a resistive heater or computer fan, these ca
 ## Learning Objectives:
 
 * Feedback control loops
-
 * Programming
-
 * Temperature Sensors
-
 * Digital Logic
 
 ## Description for Instructor:
