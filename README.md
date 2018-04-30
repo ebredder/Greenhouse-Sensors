@@ -10,7 +10,7 @@ PBL Module - Developed by Hunter Moore
 * Jumper Wires
 * Computer Fan
 * Resistive Heater
-* Temperature Sensor (such as TMP37)
+* Temperature Sensor (such as DHT11 or TMP37)
 
 Equipment Notes: If you do not have a resistive heater or computer fan, these can be replaced with two, different colored LEDs to simulate the experience.
 
